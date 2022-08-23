@@ -23,7 +23,7 @@ The data set has now been cleaned and encoded, now I had to split the data into 
 
 ### Model 1: Basic Model
 
-![Model_1.png](Images\Model_1.png)
+![Model_1.png](Images/Model_1.png)
 
 
 ### Model 2: SMOTE Resampling
