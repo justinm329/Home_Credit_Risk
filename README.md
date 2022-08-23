@@ -28,22 +28,22 @@ The data set has now been cleaned and encoded, now I had to split the data into 
 
 ### Model 2: SMOTE Resampling
 
-![SMOTE_MODEL.png](Images\SMOTE_MODEL.png)
+![SMOTE_MODEL.png](Images/SMOTE_MODEL.png)
 
 
 ### Model 3: MinMax_SMOTE
 
-![MM_SMOTE.png](Images\MM_SMOTE.png)
+![MM_SMOTE.png](Images/MM_SMOTE.png)
 
 
 ### Model 4: SMOTE SelectKBest
 
-![SMOTE_CHI2.png](Images\SMOTE_CHI2.png)
+![SMOTE_CHI2.png](Images/SMOTE_CHI2.png)
 
 
 ### Model 5: Undersampling SelectKBest
 
-![UNDERSAMPLER_CHI2.png](Images\UNDERSAMPLER_CHI2.png)
+![UNDERSAMPLER_CHI2.png](Images/UNDERSAMPLER_CHI2.png)
 
 
 
